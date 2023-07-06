@@ -40,7 +40,7 @@
 <img src='./design/desktop-preview.jpg' alt='Sunnyside Agency Landing Page solution preview image'>
 </div>
 <div align='center'>
-<img src='./design/mobile-menu.jpg' width="150" alt='Sunnyside Agency Landing Page solution preview image'>
+<img src='./design/mobile-menu.jpg' width="200" alt='Sunnyside Agency Landing Page solution preview image'>
 </div>
 
 <br>
