@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  <a href="https://www.frontendmentor.io/profile/jackzz119">
+  <a href="https://github.com/Jackzz119">
     <img src="https://img.shields.io/badge/Profile-jackzz119-fefefe?style=for-the-badge&logo=frontendmentor" alt="Abdul Khalid's Profile">
   </a> &nbsp;&nbsp;&nbsp;
 
